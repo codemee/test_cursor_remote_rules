@@ -1,0 +1,10 @@
+---
+alwaysApply: true
+---
+
+# Python 環境管理
+
+使用 uv 管理 Python 專案：
+- 用 `uv init` 初始化專案
+- 用  `uv add` 加入套件
+- 用 `uv run` 執行 Python 程式碼檔
