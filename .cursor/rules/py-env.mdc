@@ -6,6 +6,7 @@ alwaysApply: true
 使用 uv 管理 Python 環境
 - 必要時以 `uv init` 初始專案使用 Python 3.13
 - 套件均以 `uv add` 加入專案
+- 使用 `uv run` 執行 Python 程式檔
 
 ## Windows 環境注意事項
 
